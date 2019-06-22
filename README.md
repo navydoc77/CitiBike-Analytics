@@ -42,7 +42,7 @@ Tableau Public
 
 Python
 
-Jupyter Notebooks
+Jupyter Notebook
 
 ## Copyright
 
